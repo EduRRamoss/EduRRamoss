@@ -1,4 +1,5 @@
 # Bem-Vindo! 🎉
+Trabalhei como profissional de TI nos meus primeiros anos profissionais, porém por conta da minha paixão por computadores, jogos, páginas de web e modificações acabei por me tornar um desenvolvedor.
 
 ## Contato profissional
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eduardorodriguesr@outlook.com)
@@ -19,8 +20,6 @@
   <img align="center" alt="sqlserver" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
 </div><br/>
 
-## Sobre mim
-Trabalhei como profissional de TI nos meus primeiros anos profissionais, porém por conta da minha paixão por computadores, jogos, páginas de web e modificações acabei por me tornar um desenvolvedor.
 
 ### Projetos destaque:
 - [Criando Infinite Scroll - React Native](https://github.com/EduRRamoss)<br/>
