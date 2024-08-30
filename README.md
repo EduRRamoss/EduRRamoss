@@ -21,4 +21,4 @@ Trabalhei como profissional de TI nos meus primeiros anos profissionais, porém 
 
 
 ### Projetos destaque:
-- [Criando Infinite Scroll - React Native](https://github.com/EduRRamoss)<br/>
+- [Teste de Entrevista - API C#, Parque de Diversões]([https://github.com/EduRRamoss](https://github.com/EduRRamoss/Parque-de-Diversoes))<br/>
