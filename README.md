@@ -1,5 +1,5 @@
 # Hello! 👋
-Always open to opportunities, I am a tech-nerd and software/hardware enthusiast. My journey began in childhood with computers, websites and games, passions that have led me to become a developer today. 
+Always open to opportunities, I am a tech-nerd and software/hardware enthusiast. My journey began in childhood with computers, websites and games, passions that have led me to become a developer today. <br/>
 💻 Proficient in C#, Angular, JavaScript, and TypeScript, with a solid foundation in SQL Server, VB GIT/GitHub. I am always looking to improve my skills, so in my free time, I study Python, LUA, and React.
 
 ## Contact
