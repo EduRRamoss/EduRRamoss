@@ -1,13 +1,13 @@
-# Bem-Vindo! 🎉
-Trabalhei como profissional de TI nos meus primeiros anos profissionais, porém por conta da minha paixão por computadores, jogos, páginas de web e modificações acabei por me tornar um desenvolvedor.
+# Hello! 👋
+Always open to opportunities, I am a tech-nerd and software/hardware enthusiast. My journey began in childhood with computers, websites and games, passions that have led me to become a developer today. 
+💻 Proficient in C#, Angular, JavaScript, and TypeScript, with a solid foundation in SQL Server, VB GIT/GitHub. I am always looking to improve my skills, so in my free time, I study Python, LUA, and React.
 
-## Contato profissional
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eduardorodriguesr@outlook.com)
+## Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-rramos/)
 
 
 
-## Tecnologias que ofereço
+## Stack
 
 <div style="display: inline_block">
   <img align="center" alt="csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -18,7 +18,3 @@ Trabalhei como profissional de TI nos meus primeiros anos profissionais, porém 
   <img align="center" alt="sqlserver" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="sqlserver" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
 </div><br/>
-
-
-### Projetos destaque:
-- [Teste de Entrevista - API C# and Entity Framework, Parque de Diversões](https://github.com/EduRRamoss/Parque-de-Diversoes)<br/>
